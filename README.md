@@ -1,7 +1,7 @@
-aiga-dimensional-design
+3D Printing and the Openness of Media
 =======================
 
-Talk given at AIGA Las Vegas chapter at Amanda Harris Gallery, 7th May 2013
+Talk given at UNLV, for the Converge conference.
 
-View the slide deck at http://suziam.github.io/aiga-dimensional-design
+View the slide deck at http://suziam.github.io/converge3dprint
 
